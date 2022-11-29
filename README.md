@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreyansh Kumar
-- 👀 I’m interested in Development and Problem Solving and DevOps
+- 👀 I’m interested in Development, Learning & Problem Solving and DevOps
 - 🌱 I’m currently pursuing Computer Science
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 Reach me at shreyanshkumar058@gmail.com
