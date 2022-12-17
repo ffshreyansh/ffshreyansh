@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shreyansh Kumar
 - 👀 I’m interested in Web Dev and Mobile Dev
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 💞️ I’m looking to collaborate on Flutter & Front end projects
 - 📫 Reach me at shreyanshkumar058@gmail.com
 
 <h3 align="center">Connect with me:</h3>
