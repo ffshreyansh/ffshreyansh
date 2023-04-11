@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev and Mobile Dev
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 Reach me at hello@shreyanshkr.com
+- 📫 Reach me at shreyanshkumar058@gmail.com
 
 # 💫 About Me:
 Front end developer & Creative Designer
